@@ -13,16 +13,15 @@
   </p>
 </div>
 
-### 🧠 About me
+## 🧠 About me
 
 * 🏗️ Data Engineer | Formerly at [WebComm Technology](https://www.webcomm.com.tw/web/en/)
 * 🧩 Check out all of my projects at [My Portfolio](https://drive.google.com/file/d/1f9l2AmABAefrTGhCMr-JSzJS0h2XI47x/view)
 * ☕ Let’s connect on [LinkedIn](https://www.linkedin.com/in/yentingkuang) or via [email](mailto:ytkuang48@gmail.com)
 * 📄 Get to know me MORE in [My Resume](https://drive.google.com/file/d/18a29AwT1742n4t2DQawXE9YztUXtg-ke/view?usp=drive_link)
 
-<br />
 
-### 🛠️ My Toolbox
+## 🛠️ My Toolbox
 
 **Programming**
 | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /> |
@@ -49,9 +48,8 @@
 |:--:|:--:|:--:|
 | Tableau | Power BI | Data Studio |
 
-<br />
 
-### 📊 Github Stats
+## 📊 Github Stats
 | <a href="https://github.com/YT-Kuang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YT-Kuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Julia's github stats" /></a> | <a href="https://github.com/YT-Kuang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
