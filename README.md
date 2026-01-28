@@ -24,32 +24,43 @@
 ## 🛠️ My Toolbox
 
 **Programming**
-| <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /> | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /> |
-|:--:|:--:|
-| Python | SQL |
+
+  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code> Python
+  <code><img height="45" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" /></code> SQL
+
 
 **Data Storage & Databases**
-| <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /> | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /> | <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snowflake.svg" /> | <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlebigquery.svg" /> | <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazons3.svg" /> | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" /> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| MySQL | MongoDB | Snowflake | BigQuery | AWS S3 | GCS |
+
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /></code> MySQL
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" /></code> MongoDB
+  <code><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snowflake.svg" /></code> Snowflake
+  <code><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlebigquery.svg" /></code> BigQuery
+  <code><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazons3.svg" /></code> AWS S3
+  <code><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/googlecloudstorage.svg" /></code> Google Cloud Storage (GCS)
 
 **Data Engineering & Pipelines**
-| <img height="30" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" /> | <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/dbt.svg" /> |
-|:--:|:--:|
-| Airflow | dbt |
+
+  <code><img height="35" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/apache-airflow.svg" /></code> Airflow
+  <code><img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/dbt.svg" /></code> dbt
 
 **Cloud Platforms**
-| <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /> | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" /> | <img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" /> |
-|:--:|:--:|:--:|
-| AWS | GCP | Azure |
+
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" /></code> AWS
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" /></code> Googel Cloud (GCP)
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" /></code> Azure
+
+* AWS Glue, Lambda, CloudFormation, CloudWatch, Macie
+* GCP GCE, Cloud Monitoring, Cloud Logging
 
 **Data Visualization**
-| <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" /> | <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" /> | <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/googledatastudio.svg" /> |
-|:--:|:--:|:--:|
-| Tableau | Power BI | Data Studio |
+
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" /></code> Tableau
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" /></code> Power BI
+  <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@14.11.0/icons/googledatastudio.svg" /></code> Google Data Studio
 
 
 ## 📊 Github Stats
+
 | <a href="https://github.com/YT-Kuang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YT-Kuang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Julia's github stats" /></a> | <a href="https://github.com/YT-Kuang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
