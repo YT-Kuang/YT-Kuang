@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
 </p> -->
 
-<h1 align="center">Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Yenting Kuang </h1>
+<h1 align="center">Hello folks <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Julia Kuang </h1>
 <h5 align="center"><i>✨I get unreasonably excited about well-designed data systems✨</i></h5>
 
 <div align='center'>
